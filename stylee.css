@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+.content{
+    width: 500px;
+    
+    border: 1px solid rgb(90, 88, 88);
+    margin: auto;
+    margin-top: 250px;
+    background-color: white;
+}
+input{
+    width: 450px;
+    height: 30px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.btn1{
+    width: 457px;
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 5px;
+    font-size: 25px;
+    color: white;
+    background-color: rgb(221, 80, 80);
+    border: none;
+}
